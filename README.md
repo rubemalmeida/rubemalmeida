@@ -1,4 +1,4 @@
-![Let me introduce myself](https://res.cloudinary.com/rubemalmeida/image/upload/v1595046464/dev/carbon.png)
+![Let me introduce myself](https://i.imgur.com/nKDBKIx.png)
 
 Hello World! I’m Rubem Almeida, and I like talk about
 - Domotics (DIY), digital circuits, microcontrollers and related topics,🔋🔌
