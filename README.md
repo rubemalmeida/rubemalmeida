@@ -1,5 +1,3 @@
-![Let me introduce myself](https://i.imgur.com/eujv2HM.png)
-
 Hello World! I’m Rubem Almeida, and I like talk about
 - Domotics (DIY), digital circuits, microcontrollers and related topics,🔋🔌
 - Discrete mathematics, mathetatics at schoolt, teach to learn, 🧮📚
